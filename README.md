@@ -1,1 +1,1 @@
-#### This is a recur based ai project
+#### This is a recurring based ai project
